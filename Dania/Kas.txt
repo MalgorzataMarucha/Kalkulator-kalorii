@@ -1,0 +1,21 @@
+: Kas
+Wartoœci od¿ywcze na 100g:: Kas
+: Kas
+Opakowanie ma: Kas
+: Kas
+Wartoœæ energetyczna: Kas
+kcal: Kas
+T³uszcze: Kas
+g: Kas
+T³uszcze nasycone: Kas
+g: Kas
+Wêglowodany: Kas
+g: Kas
+Cukry: Kas
+g: Kas
+B³onnik: Kas
+g: Kas
+Bia³ka: Kas
+g: Kas
+Sól: Kas
+g: Kas
